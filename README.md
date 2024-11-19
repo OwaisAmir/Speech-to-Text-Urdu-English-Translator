@@ -16,10 +16,10 @@ This Python-based application listens to spoken Urdu, converts it into text, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Speech-to-Text-Urdu-English-Translator.git
+   https://github.com/OwaisAmir/Speech-to-Text-Urdu-English-Translator.git
    cd Speech-to-Text-Urdu-English-Translator
 ---
- 2. Install the required dependencies
+2. Install the required dependencies
    ```bash
     pip install SpeechRecognition==3.8.1
     pip install mtranslate
@@ -27,4 +27,8 @@ This Python-based application listens to spoken Urdu, converts it into text, and
     pip install pyaudio
     pip install threading
 
+---
+## Requirements
+- **Python 3.6 or above
+- **Microphone (for input)
 
