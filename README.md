@@ -32,3 +32,7 @@ This Python-based application listens to spoken Urdu, converts it into text, and
 - **Python 3.6 or above
 - **Microphone (for input)
 
+---
+## License
+This project is under a **Commercial License**. Use of this software for any commercial purposes requires explicit permission from the author. See the `LICENSE` file for details.
+
